@@ -1,0 +1,15 @@
+# Node (React)
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# Go
+backend/*.exe
+backend/*.out
+backend/*.test
+backend/vendor/
+backend/.env
+
+# Outros
+.DS_Store
+*.log
